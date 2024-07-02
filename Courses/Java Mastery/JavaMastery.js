@@ -4,11 +4,6 @@ function showCode(video) {
   let code = '';
 
   switch(video) {
-    case 'video1':
-      code = `
-// Code will be displayed here
-`;
-      break;
     case 'video3':
       code = `
 public class Video3 {
